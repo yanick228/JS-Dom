@@ -254,7 +254,6 @@ main .filtre {
 
 .produits .carte-produit {
   width: 260px;
-
   gap: 0.5rem;
   padding: 0.7rem;
   border-radius: 15px;
@@ -361,7 +360,7 @@ main .filtre {
     padding: var(--padding);
   }
   .logo p {
-    display: none;
+    display: none
   }
   header nav {
     display: none;
